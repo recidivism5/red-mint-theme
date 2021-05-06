@@ -1,7 +1,7 @@
 {
     "name": "red-mint-theme",
     "displayName": "Red Mint Theme",
-    "icon": "./DTMN_square.png",
+    "icon": "DTMN_square.png",
     "publisher": "dtmn-foundation",
     "description": "Dimmed to perfection.",
     "version": "0.0.1",
