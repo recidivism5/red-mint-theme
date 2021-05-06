@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Red_Mint_alt.tmTheme",
+	"colors": {
+		"editor.background": "#1C1E22",
+		"editorCursor.foreground": "#97a8aaff",
+		"editor.foreground": "#97a8aaff",
+		"editorWhitespace.foreground": "#3D3B3A",
+		"editor.lineHighlightBackground": "#3D3B3A00",
+		"editor.selectionBackground": "#3D3B3A"
+	},
+	"name": "Red Mint Alt."
+}

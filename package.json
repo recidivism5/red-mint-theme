@@ -1,0 +1,22 @@
+{
+    "name": "red-mint-theme",
+    "displayName": "Red Mint Theme",
+    "publisher": "the-joj",
+    "description": "Dimmed to perfection.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Red Mint",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Red Mint-color-theme.json"
+            }
+        ]
+    }
+}
