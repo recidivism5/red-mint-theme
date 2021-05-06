@@ -1,9 +1,14 @@
 {
     "name": "red-mint-theme",
     "displayName": "Red Mint Theme",
-    "publisher": "the-joj",
+    "icon": "./DTMN_square.png",
+    "publisher": "dtmn-foundation",
     "description": "Dimmed to perfection.",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/recidivism5/red-mint-theme"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
